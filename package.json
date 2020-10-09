@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha"
+    "start": "node app.js",
+    "test": "./node_modules/.bin/mocha",
+    "mocha": "./node_modules/.bin/mocha"
   },
   "author": "hdussert",
   "license": "ISC",
